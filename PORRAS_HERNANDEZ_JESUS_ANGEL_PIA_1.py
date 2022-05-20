@@ -245,7 +245,7 @@ def recocido_simulado(totalStores, totalCity):
 
 
 # Para resolver utilizando el algoritmo, solo necesitamos como parametro la ruta de la cual se va a extrar la informacion.
-def greedy(rute):
+def busqueda_costos(rute):
 
     # Obtenemos el tiempo actual del proceso.
     initial_time = time()
